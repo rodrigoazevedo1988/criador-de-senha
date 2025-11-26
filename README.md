@@ -232,7 +232,7 @@ Tem uma ideia? [Sugira uma feature](https://github.com/srgatocoursesonline/gerad
 
 ## 🏆 Reconhecimentos
 
-Desenvolvido com ❤️ por [SR Gato Courses Online](https://github.com/srgatocoursesonline)
+Desenvolvido com ❤️ por [Rodrigo Azevedo](https://github.com/rodrigoazevedo1988)
 
 ### 🙏 Agradecimentos
 - Comunidade open source
