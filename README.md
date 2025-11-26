@@ -245,9 +245,6 @@ Desenvolvido com ❤️ por [Rodrigo Azevedo](https://github.com/rodrigoazevedo1
 
 **⭐ Se este projeto foi útil, deixe uma estrela!**
 
-[![GitHub Stars](https://img.shields.io/github/stars/srgatocoursesonline/gerador-de-senhas?style=social)](https://github.com/srgatocoursesonline/gerador-de-senhas/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/srgatocoursesonline/gerador-de-senhas?style=social)](https://github.com/srgatocoursesonline/gerador-de-senhas/network/members)
-
 📱 **PWA Ready** | 🔒 **Crypto Secure** | ⚡ **High Performance** | 🎨 **Modern UI**
 
 </div>
