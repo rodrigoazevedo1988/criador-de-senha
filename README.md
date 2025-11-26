@@ -4,7 +4,7 @@ Um gerador de senhas moderno e completo desenvolvido como Progressive Web App (P
 
 ## 📱 Demonstração
 
-🌐 **Acesse a aplicação**: [https://srgatocoursesonline.github.io/gerador-de-senhas](https://srgatocoursesonline.github.io/gerador-de-senhas)
+🌐 **Acesse a aplicação**: [https://rodrigoazevedo1988.github.io/criador-de-senha](https://rodrigoazevedo1988.github.io/criador-de-senha/)
 
 > **💡 Dica**: Instale como PWA para experiência completa de aplicativo nativo!
 
